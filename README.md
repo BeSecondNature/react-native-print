@@ -2,6 +2,10 @@
 
 Print documents using React Native.
 
+## Cloned!
+
+Why is this repo cloned? To fix this issue on React 19 / RN 0.78: https://github.com/christopherdro/react-native-print/issues/223
+
 ## Installation
 
 Run `npm install react-native-print --save`
